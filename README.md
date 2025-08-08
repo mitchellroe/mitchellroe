@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mitchell. I'm a forest lover with a Linux addiction. I spend most of my time in GitOps, working on Ansible, Terraform, and Kubernetes.
+My name is Mitchell. I'm a forest lover 🌳 with a Linux habit 🐧.<br>I spend most of my time in GitOps, working on Ansible, Terraform, and Kubernetes.
