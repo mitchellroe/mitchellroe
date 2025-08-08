@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Senior Systems Engineer at Erasys, GmbH where I work on Ansible & Kubernetes and write lots of documentation.
+My name is Mitchell. I'm a forest lover with a Linux addiction. I spend most of my time in GitOps, working on Ansible, Terraform, and Kubernetes.
